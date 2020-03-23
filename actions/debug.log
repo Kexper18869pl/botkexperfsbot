@@ -1,0 +1,50 @@
+[1027/194119.200:ERROR:settings.cc(263)] Settings version is not 1
+[1027/212622.251:ERROR:settings.cc(263)] Settings version is not 1
+[1028/183306.260:ERROR:settings.cc(263)] Settings version is not 1
+[1029/124030.812:ERROR:settings.cc(263)] Settings version is not 1
+[1111/031915.718:ERROR:settings.cc(263)] Settings version is not 1
+[1111/132800.045:ERROR:settings.cc(263)] Settings version is not 1
+[1111/190843.948:ERROR:settings.cc(263)] Settings version is not 1
+[1112/160149.186:ERROR:settings.cc(263)] Settings version is not 1
+[1113/232307.008:ERROR:settings.cc(263)] Settings version is not 1
+[1114/134757.357:ERROR:settings.cc(263)] Settings version is not 1
+[1114/224821.600:ERROR:settings.cc(263)] Settings version is not 1
+[1115/224428.252:ERROR:settings.cc(263)] Settings version is not 1
+[1203/224305.261:ERROR:settings.cc(263)] Settings version is not 1
+[1203/230805.694:ERROR:settings.cc(263)] Settings version is not 1
+[0109/211904.651:ERROR:settings.cc(263)] Settings version is not 1
+[0121/194411.103:ERROR:process_info.cc(350)] VirtualQueryEx: Odmowa dostêpu. (0x5)
+[0121/194411.151:ERROR:process_info.cc(571)] ReadMemoryInfo failed
+[0121/194411.151:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b9c693c of 12 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0121/194411.174:WARNING:process_snapshot_win.cc(72)] ReadMemory ExceptionInformation failed
+[0121/194411.174:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0121/194411.174:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Podjêto próbê uzyskania dostêpu do procesu koñcz¹cego dzia³anie.  (0xc000010a)
+[0121/194601.635:ERROR:settings.cc(263)] Settings version is not 1
+[0124/211640.826:ERROR:settings.cc(263)] Settings version is not 1
+[0227/211526.620:ERROR:settings.cc(263)] Settings version is not 1
+[0227/213413.330:ERROR:settings.cc(263)] Settings version is not 1
+[0303/170140.128:ERROR:settings.cc(263)] Settings version is not 1
+[0303/220326.537:ERROR:settings.cc(263)] Settings version is not 1
+[0303/220813.240:ERROR:settings.cc(263)] Settings version is not 1
+[0304/210215.348:ERROR:settings.cc(263)] Settings version is not 1
+[0306/184150.261:ERROR:settings.cc(263)] Settings version is not 1
+[0307/151030.704:ERROR:settings.cc(263)] Settings version is not 1
+[0307/174424.299:ERROR:settings.cc(263)] Settings version is not 1
+[0307/195804.523:ERROR:settings.cc(263)] Settings version is not 1
+[0307/224614.301:ERROR:settings.cc(263)] Settings version is not 1
+[0307/234931.533:ERROR:settings.cc(263)] Settings version is not 1
+[0308/003649.606:ERROR:settings.cc(263)] Settings version is not 1
+[0310/185528.832:ERROR:settings.cc(263)] Settings version is not 1
+[0311/144100.052:ERROR:settings.cc(263)] Settings version is not 1
+[0311/203817.981:ERROR:settings.cc(263)] Settings version is not 1
+[0312/193237.146:ERROR:settings.cc(263)] Settings version is not 1
+[0312/201856.025:ERROR:settings.cc(263)] Settings version is not 1
+[0314/134405.908:ERROR:settings.cc(263)] Settings version is not 1
+[0314/152732.930:ERROR:settings.cc(263)] Settings version is not 1
+[0314/152732.965:ERROR:settings.cc(263)] Settings version is not 1
+[0314/155432.807:ERROR:settings.cc(263)] Settings version is not 1
+[0314/205712.421:ERROR:settings.cc(263)] Settings version is not 1
+[0315/174204.248:ERROR:settings.cc(263)] Settings version is not 1
+[0315/213002.005:ERROR:settings.cc(263)] Settings version is not 1
+[0315/214335.192:ERROR:settings.cc(263)] Settings version is not 1
+[0315/225654.685:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: Adres URL nie korzysta z rozpoznawanego protoko³u.  (0x2ee6)
